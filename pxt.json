@@ -1,5 +1,6 @@
 {
     "name": "Chapter 2 Rock Paper Scissors",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
